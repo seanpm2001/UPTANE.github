@@ -21,7 +21,7 @@ Both the Standard and the Deployment Best Practices are living documents, which 
 
 Uptane is a Linux Foundation Joint Development Foundation project.
 
-The Uptane framework is incorporated in [Automotive Grade Linux](https://www.automotivelinux.org/), which is supported by [major OEMs and suppliers] (https://www.automotivelinux.org/about/members/). Uptane's presence in AGL is implemented in via [aktualizr] (https://github.com/uptane/aktualizr), which is also integrated into the OTA Community Edition (https://github.com/uptane/ota-community-edition/) and GENIVI (https://covesa.global/).
+The Uptane framework is incorporated in [Automotive Grade Linux](https://www.automotivelinux.org/), which is supported by [major OEMs and suppliers](https://www.automotivelinux.org/about/members/). Uptane's presence in AGL is implemented in via [aktualizr](https://github.com/uptane/aktualizr), which is also integrated into the [OTA Community Edition](https://github.com/uptane/ota-community-edition/) and [GENIVI](https://covesa.global/).
 
 For more information on Uptane adoptions, go to https://uptane.org/learn-more/adoptions.
 
