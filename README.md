@@ -8,8 +8,9 @@
 
 ## About us
 
-Uptane is the first software update security system for the automotive industry capable of resisting even attacks by nation-state level actors. It is designed so that the security of software updates does not degrade all at once, but depends on a hierarchy in which different levels of access privilege to vehicles and/or the automaker’s infrastructure must be gained before serious damage can be inflicted. By building these access control levels into the security system, even if an attacker compromises servers, bribes operators, or gains access to vehicular networks, he or she is prevented from causing many types of harm to the vehicle.
-Though initially designed for the automotive industry, Uptane is now being applied to a host of other industries that rely on software-over-the-air technology to deliver secure updates. Since its inception Uptane has been applied to many fields, including ndustrial robotics, medicine, and smart infrastructure.
+Uptane is the first software update security system for the automotive industry capable of resisting even attacks by nation-state-level actors. It is designed so that the security of software updates does not degrade all at once, but depends on a hierarchy in which different levels of access privilege to vehicles and/or the automaker’s infrastructure must be gained before serious damage can be inflicted. By building these access control levels into the security system, even if an attacker compromises servers, bribes operators, or gains access to vehicular networks, he or she is prevented from causing many types of harm to the vehicle.
+
+Though initially designed for the automotive industry, Uptane is now being applied to a host of other industries that rely on software-over-the-air technology to deliver secure updates. Since its inception Uptane has been applied to many fields, including industrial robotics, medicine, and smart infrastructure.
 
 Here is an overview of the Uptane project and the numerous repositories linked to this page that offer ways to interact and contribute.
 
