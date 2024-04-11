@@ -28,8 +28,8 @@ For more information on Uptane adoptions, go to https://uptane.org/learn-more/ad
 ## Get involved
 
 The Uptane project offers a number of ways for community members to participate in the advancement of secure software updates. These include submitting issues for the Standard or Deployment Pages, attending the biweekly Standards meetings or the specialized community forums held both in person and online, or sharing case histories of implementations in either print or video formats.
+
 Issues related to the Standard or Deployment Best Practices can be posted directly to the repositories.
-Add contact information
 
 ---
 
